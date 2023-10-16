@@ -1,0 +1,450 @@
+Dim:1    NumData:1    NumNor:[1]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[2]    MaximumNumOfAttractors:2
+Dim:1    NumData:1    NumNor:[5]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[10]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[15]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[20]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[1, 1]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[2, 2]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[5, 5]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[10, 10]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[20, 20]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:1    NumNor:[2, 2, 2]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[5, 5, 5]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[20, 20, 20]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:1
+Dim:1    NumData:1    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:1    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[2]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[5]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[10]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[15]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[20]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[2, 2]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[5, 5]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[10, 10]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[15, 15]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[2, 2, 2]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[5, 5, 5]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[15, 15, 15]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:2
+Dim:1    NumData:2    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:2    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[2]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[5]    MaximumNumOfAttractors:4
+Dim:1    NumData:5    NumNor:[10]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[15]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[20]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[5, 5]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[10, 10]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[5, 5, 5]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[15, 15, 15]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:4
+Dim:1    NumData:5    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:5    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:2
+Dim:1    NumData:5    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:5    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[2]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[5]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[10]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[15]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[20]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[5, 5]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[10, 10]    MaximumNumOfAttractors:4
+Dim:1    NumData:10    NumNor:[15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[2, 2, 2]    MaximumNumOfAttractors:4
+Dim:1    NumData:10    NumNor:[5, 5, 5]    MaximumNumOfAttractors:4
+Dim:1    NumData:10    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:10    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:5
+Dim:1    NumData:10    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:2
+Dim:1    NumData:10    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:5
+Dim:1    NumData:10    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:10    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[2]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[5]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[10]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[15]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[20]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[5, 5]    MaximumNumOfAttractors:4
+Dim:1    NumData:15    NumNor:[10, 10]    MaximumNumOfAttractors:5
+Dim:1    NumData:15    NumNor:[15, 15]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[2, 2, 2]    MaximumNumOfAttractors:4
+Dim:1    NumData:15    NumNor:[5, 5, 5]    MaximumNumOfAttractors:5
+Dim:1    NumData:15    NumNor:[10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:15    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:5
+Dim:1    NumData:15    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:5
+Dim:1    NumData:15    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:15    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:4
+Dim:1    NumData:15    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:5
+Dim:1    NumData:15    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:15    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[2]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[5]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[10]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[15]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[20]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[2, 2]    MaximumNumOfAttractors:4
+Dim:1    NumData:20    NumNor:[5, 5]    MaximumNumOfAttractors:4
+Dim:1    NumData:20    NumNor:[10, 10]    MaximumNumOfAttractors:4
+Dim:1    NumData:20    NumNor:[15, 15]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[20, 20]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[2, 2, 2]    MaximumNumOfAttractors:4
+Dim:1    NumData:20    NumNor:[5, 5, 5]    MaximumNumOfAttractors:6
+Dim:1    NumData:20    NumNor:[10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:4
+Dim:1    NumData:20    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:1    NumData:20    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:1    NumData:20    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:6
+Dim:1    NumData:20    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:1    NumData:20    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:1    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:2    NumData:1    NumNor:[2]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[5]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[10]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[15]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[20]    MaximumNumOfAttractors:2
+Dim:2    NumData:1    NumNor:[1, 1]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[2, 2]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[5, 5]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:1    NumNor:[15, 15]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:1    NumNor:[1, 1, 1]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[2, 2, 2]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[5, 5, 5]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[15, 15, 15]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[20, 20, 20]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:2    NumData:1    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:1    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:1
+Dim:2    NumData:1    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:2    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[2]    MaximumNumOfAttractors:3
+Dim:2    NumData:2    NumNor:[5]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[15]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[20]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[2, 2]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[5, 5]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[15, 15]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[20, 20]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[2, 2, 2]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[5, 5, 5]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[15, 15, 15]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[20, 20, 20]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:5    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[2]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[5]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[10]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[15]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[20]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[5, 5]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[15, 15]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[20, 20]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[2, 2, 2]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[5, 5, 5]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[15, 15, 15]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[20, 20, 20]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:3
+Dim:2    NumData:5    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:5    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:0
+Dim:2    NumData:5    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:5
+Dim:2    NumData:5    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:5
+Dim:2    NumData:5    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:3
+Dim:2    NumData:10    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:2    NumData:10    NumNor:[2]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[5]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[10]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[15]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[20]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:10    NumNor:[2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[5, 5]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[15, 15]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[20, 20]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:10    NumNor:[2, 2, 2]    MaximumNumOfAttractors:3
+Dim:2    NumData:10    NumNor:[5, 5, 5]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[15, 15, 15]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[20, 20, 20]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:10    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:10    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:6
+Dim:2    NumData:10    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:10    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:10    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:6
+Dim:2    NumData:10    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:10    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:6
+Dim:2    NumData:10    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:15    NumNor:[1]    MaximumNumOfAttractors:2
+Dim:2    NumData:15    NumNor:[2]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[5]    MaximumNumOfAttractors:3
+Dim:2    NumData:15    NumNor:[10]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[15]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[20]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:15    NumNor:[2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[5, 5]    MaximumNumOfAttractors:7
+Dim:2    NumData:15    NumNor:[10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[15, 15]    MaximumNumOfAttractors:6
+Dim:2    NumData:15    NumNor:[20, 20]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:15    NumNor:[2, 2, 2]    MaximumNumOfAttractors:4
+Dim:2    NumData:15    NumNor:[5, 5, 5]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[15, 15, 15]    MaximumNumOfAttractors:8
+Dim:2    NumData:15    NumNor:[20, 20, 20]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:15    NumNor:[2, 2, 2, 2]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[5, 5, 5, 5]    MaximumNumOfAttractors:6
+Dim:2    NumData:15    NumNor:[10, 10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:15    NumNor:[15, 15, 15, 15]    MaximumNumOfAttractors:8
+Dim:2    NumData:15    NumNor:[20, 20, 20, 20]    MaximumNumOfAttractors:8
+Dim:2    NumData:15    NumNor:[1, 1, 1, 1, 1]    MaximumNumOfAttractors:2
+Dim:2    NumData:15    NumNor:[2, 2, 2, 2, 2]    MaximumNumOfAttractors:5
+Dim:2    NumData:15    NumNor:[5, 5, 5, 5, 5]    MaximumNumOfAttractors:6
+Dim:2    NumData:15    NumNor:[10, 10, 10, 10, 10]    MaximumNumOfAttractors:8
+Dim:2    NumData:15    NumNor:[15, 15, 15, 15, 15]    MaximumNumOfAttractors:9
+Dim:2    NumData:15    NumNor:[20, 20, 20, 20, 20]    MaximumNumOfAttractors:0
+Dim:2    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:3    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:4    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:3    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:4    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:3    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:4    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:6    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:7    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:8    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:9    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:1    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:2    NumNor:[10, 10, 10]    MaximumNumOfAttractors:2
+Dim:2    NumData:3    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:4    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:5    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:6    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:7    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:8    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:9    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:10    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:11    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:12    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:13    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:14    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:15    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:16    NumNor:[10, 10, 10]    MaximumNumOfAttractors:32
+Dim:2    NumData:17    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:18    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:19    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:20    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:21    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:22    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:23    NumNor:[10, 10, 10]    MaximumNumOfAttractors:9
+Dim:2    NumData:24    NumNor:[10, 10, 10]    MaximumNumOfAttractors:8
+Dim:2    NumData:25    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:26    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:27    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:28    NumNor:[10, 10, 10]    MaximumNumOfAttractors:8
+Dim:2    NumData:29    NumNor:[10, 10, 10]    MaximumNumOfAttractors:9
+Dim:2    NumData:30    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:31    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:32    NumNor:[10, 10, 10]    MaximumNumOfAttractors:9
+Dim:2    NumData:33    NumNor:[10, 10, 10]    MaximumNumOfAttractors:1
+Dim:2    NumData:34    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:35    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:36    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:37    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:38    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:39    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:40    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:41    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:42    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:43    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:44    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:45    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:46    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:47    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:48    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:49    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:50    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:51    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:52    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:53    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:54    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:55    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:56    NumNor:[10, 10, 10]    MaximumNumOfAttractors:35
+Dim:2    NumData:57    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:58    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:59    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:60    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:61    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:62    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:63    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:64    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:65    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:66    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:67    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:68    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:69    NumNor:[10, 10, 10]    MaximumNumOfAttractors:8
+Dim:2    NumData:70    NumNor:[10, 10, 10]    MaximumNumOfAttractors:14
+Dim:2    NumData:71    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:72    NumNor:[10, 10, 10]    MaximumNumOfAttractors:7
+Dim:2    NumData:73    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:74    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:75    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:76    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:77    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:78    NumNor:[10, 10, 10]    MaximumNumOfAttractors:14
+Dim:2    NumData:79    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:80    NumNor:[10, 10, 10]    MaximumNumOfAttractors:8
+Dim:2    NumData:81    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:82    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:83    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:84    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
+Dim:2    NumData:85    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:86    NumNor:[10, 10, 10]    MaximumNumOfAttractors:5
+Dim:2    NumData:87    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:88    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:89    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:90    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:91    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:92    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:93    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:94    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:95    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:96    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:97    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:98    NumNor:[10, 10, 10]    MaximumNumOfAttractors:4
+Dim:2    NumData:99    NumNor:[10, 10, 10]    MaximumNumOfAttractors:6
+Dim:2    NumData:100    NumNor:[10, 10, 10]    MaximumNumOfAttractors:3
